@@ -20,4 +20,3 @@
 
 Projects:
 
-https://deliciousdessertsjesmond.netlify.app/index.html
