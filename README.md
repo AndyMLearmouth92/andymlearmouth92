@@ -30,3 +30,8 @@
   <div id="item-9">9</div>
 </div>
 
+.grid {
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 50px 50px;
+}
