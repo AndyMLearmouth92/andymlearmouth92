@@ -1,5 +1,4 @@
-https://pbs.twimg.com/profile_banners/1482760211328815106/1646583196/1500x500![image](https://user-images.githubusercontent.com/108182837/200114040-3df86f4f-9ccb-438d-8ec2-957dc6f34591.png)
-
+![Canva background](https://user-images.githubusercontent.com/108182837/200114175-d4e1a176-3368-4d55-b3b6-4d1dd11eaced.jpeg)
 <h1 align="center">Hi 👋, I'm Andy Learmouth</h1>
 <h3 align="center">A passionate full-stack software engineer from London</h3>
 
