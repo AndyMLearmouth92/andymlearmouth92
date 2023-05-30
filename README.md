@@ -31,7 +31,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Wordle</h3>
       <a target="_blank" href="https://wordgamewordle.netlify.app">
-            <img width="100%" alt="Wordle" src="https://user-images.githubusercontent.com/90465357/221158344-8f45193e-c252-415d-8fd7-91c1530e9538.png"/>
+            <img width="100%" alt="Wordle" src="https://github.com/AndyMLearmouth92/andymlearmouth92/assets/108182837/3ff8e767-2812-4b8d-b90d-fe031f4504be"/>
         </a>
         <p align="center">
           
@@ -50,7 +50,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Grooming Furbulous Darling</h3>
         <a target="_blank" href="">
-          <img width="100%" alt="Portfolio" src="https://user-images.githubusercontent.com/90465357/221159163-f05578c2-b24b-4493-bcf5-5906d657d822.png"/>
+          <img width="100%" alt="Portfolio" src="https://github.com/AndyMLearmouth92/andymlearmouth92/assets/108182837/7a5b33b1-aa2e-4704-81dc-3988d80b94b9"/>
         </a>
       <br />
         <p align="center">
@@ -66,7 +66,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Delicious Desserts</h3>
         <a target="_blank" href="https://deliciousdessertsjesmond.netlify.app/index.html">
-          <img width="100%" alt="Delicious Desserts" src="https://user-images.githubusercontent.com/90465357/221187721-cfdfae45-31d0-4bc6-8ecd-7e49f69f741b.png"/>
+          <img width="100%" alt="Delicious Desserts" src="https://github.com/AndyMLearmouth92/andymlearmouth92/assets/108182837/08e7e060-eeec-4dd7-bbaa-07d365f543b6"/>
         </a>
         <p align="center">
           
