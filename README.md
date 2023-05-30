@@ -14,7 +14,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Trailblazers</h3>
         <a target="_blank" href="https://trailblazers.cyclic.app">
-            <img width="100%" alt="Social media App" src="https://user-images.githubusercontent.com/90465357/221157045-7618d0e4-a7aa-454c-9f09-c7df5af42963.png"/>
+            <img width="100%" alt="Social media App" src="https://user-images.githubusercontent.com/108182837/230394589-4314bd76-07e0-4305-9123-5e79df6c4833.png"/>
         </a>
         <br />
         <p align="center">
