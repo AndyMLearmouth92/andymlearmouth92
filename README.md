@@ -12,21 +12,21 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Rate your rental</h3>
-        <a target="_blank" href="http://rateyourrental.cyclic.app">
-            <img width="100%" alt="Rental property app" src="https://user-images.githubusercontent.com/90465357/221157045-7618d0e4-a7aa-454c-9f09-c7df5af42963.png"/>
+      <h3 align="center">Trailblazers</h3>
+        <a target="_blank" href="https://trailblazers.cyclic.app">
+            <img width="100%" alt="Social media App" src="https://user-images.githubusercontent.com/90465357/221157045-7618d0e4-a7aa-454c-9f09-c7df5af42963.png"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/eleanorlatus/rate-your-rental" target="_blank">
+  <a href="https://github.com/AndyMLearmouth92/Trailblazers" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=FBDFDD&style=flat&logo=github&logo-color=white"/>
   </a>  
-  <a href="http://rateyourrental.cyclic.app" target="_blank">
+  <a href="https://trailblazers.cyclic.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Tailwind CSS, Node.js, & Express.js</strong> - Platform which aims to help UK renters make informed decisions about where they live by reviewing their landlord and rental property.</p>
+        <p><strong>Javascript, Tailwind CSS, Node.js, & Express.js</strong> - Platform which aims to help users connect and share their adventures with other walkers, hikers and climbers.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Hound Haircuts</h3>
