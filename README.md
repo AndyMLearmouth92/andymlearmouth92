@@ -26,58 +26,58 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Tailwind CSS, Node.js, & Express.js</strong> - Platform which aims to help users connect and share their adventures with other walkers, hikers and climbers.</p>
+        <p><strong>Javascript, Tailwind CSS, Node.js, Express.js and MongoDB.</strong> - Platform which aims to help users connect and share their adventures with other walkers, hikers and climbers.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Hound Haircuts</h3>
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img width="100%" alt="Hound Haircuts" src="https://user-images.githubusercontent.com/90465357/221158344-8f45193e-c252-415d-8fd7-91c1530e9538.png"/>
+      <h3 align="center">Wordle</h3>
+      <a target="_blank" href="https://wordgamewordle.netlify.app">
+            <img width="100%" alt="Wordle" src="https://user-images.githubusercontent.com/90465357/221158344-8f45193e-c252-415d-8fd7-91c1530e9538.png"/>
         </a>
         <p align="center">
           
-  <a href="https://github.com/eleanorlatus/HoundHaircuts" target="_blank">
+  <a href="https://github.com/AndyMLearmouth92/Wordle-React" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=FBDFDD&style=flat&logo=github&logo-color=white"/>
   </a>
-  <a href="https://houndhaircuts.netlify.app" target="_blank">
+  <a href="https://wordgamewordle.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Website to advertise a dog grooming business built to a client's specification.</p>
+        <p><strong>React, Javascript and CSS3</strong> - Clone of Wordle which links to an API that I created to supply five letter words.</p>
     </td>
   </tr>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Eleanor Latus</h3>
-        <a target="_blank" href="https://eleanorlatus.netlify.app">
+      <h3 align="center">Grooming Furbulous Darling</h3>
+        <a target="_blank" href="">
           <img width="100%" alt="Portfolio" src="https://user-images.githubusercontent.com/90465357/221159163-f05578c2-b24b-4493-bcf5-5906d657d822.png"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/eleanorlatus/Portfolio" target="_blank">
+  <a href="https://github.com/AndyMLearmouth92/Grooming-Furbulous-Darling" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=FBDFDD&style=flat&logo=github&logo-color=white"/>
   </a>
-  <a href="https://eleanorlatus.netlify.app" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Created for a client who runs a dog grooming business, currently not hosted.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Rocksmash</h3>
-        <a target="_blank" href="https://rocksmash.netlify.app">
-          <img width="100%" alt="Rocksmash" src="https://user-images.githubusercontent.com/90465357/221187721-cfdfae45-31d0-4bc6-8ecd-7e49f69f741b.png"/>
+      <h3 align="center">Delicious Desserts</h3>
+        <a target="_blank" href="https://deliciousdessertsjesmond.netlify.app/index.html">
+          <img width="100%" alt="Delicious Desserts" src="https://user-images.githubusercontent.com/90465357/221187721-cfdfae45-31d0-4bc6-8ecd-7e49f69f741b.png"/>
         </a>
         <p align="center">
           
-  <a href="https://github.com/eleanorlatus/Rocksmash" target="_blank">
+  <a href="https://github.com/AndyMLearmouth92/Delicious-Desserts" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=FBDFDD&style=flat&logo=github&logo-color=white"/>
   </a>
-  <a href="https://rocksmash.netlify.app" target="_blank">
+  <a href="https://deliciousdessertsjesmond.netlify.app/index.html" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - A simple game where you can play rock, paper, scissors against the computer.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - A wesbite for a desserts parlour.</p>
     </td>
   </tr>
 </table>
