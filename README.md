@@ -50,7 +50,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Grooming Furbulous Darling</h3>
         <a target="_blank" href="">
-          <img width="100%" alt="Portfolio" src="https://github.com/AndyMLearmouth92/andymlearmouth92/assets/108182837/7a5b33b1-aa2e-4704-81dc-3988d80b94b9"/>
+          <img width="100%" alt="Portfolio" src="https://github.com/AndyMLearmouth92/Grooming-Furbulous-Darling/assets/108182837/5804791a-0517-497c-a3ea-4bc8144c644b"/>
         </a>
       <br />
         <p align="center">
