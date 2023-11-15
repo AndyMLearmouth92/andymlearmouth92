@@ -24,6 +24,7 @@ See [my website](https://andylearmouth.netlify.app) for more information!
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
+
   
   <tr>
     <td width="50%" valign="top">
@@ -57,7 +58,45 @@ See [my website](https://andylearmouth.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React, JavaScript and CSS3</strong> - Clone of Wordle which links to an API that I created to supply five letter words.</p>
+        <p><strong>React,js, JavaScript and CSS3</strong> - Clone of Wordle which links to an API that I created to supply five letter words.</p>
+    </td>
+  </tr>
+
+
+
+  <tr>
+     <td width="50%" valign="top">
+      <h3 align="center">Quiz Master</h3>
+        <a target="_blank" href="https://quiz-master-challenge.netlify.app">
+            <img alt="Quiz App" src="https://github.com/AndyMLearmouth92/andymlearmouth92/assets/108182837/ae97d853-79c3-4851-b95d-46a0945be937"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/AndyMLearmouth92/quiz-master" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=FBDFDD&style=flat&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://quiz-master-challenge.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React.js, JavaScript and Tailwind CSS</strong> - An interactive quiz game which allows the user to select the number of questions, answer the questions and once they are finished provides a total of the correct answers and allows the user to review their responses.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Crafted Cocktails</h3>
+        <a target="_blank" href="https://craftedcocktails.netlify.app">
+          <img width="1470" alt="Crafted Cocktails laptop" src="https://github.com/AndyMLearmouth92/andymlearmouth92/assets/108182837/a86adf9e-56cc-43b6-97ef-059e0f1dd387"/>
+        </a>
+        <p align="center">
+          
+  <a href="https://github.com/AndyMLearmouth92/crafted-cocktails" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=FBDFDD&style=flat&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://craftedcocktails.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & JavaScript</strong> - An application which allows the user to input a type of alcohol and cycle through the catalogue of drinks in that category or search for a random drink.</p>
     </td>
   </tr>
   
@@ -94,44 +133,6 @@ See [my website](https://andylearmouth.netlify.app) for more information!
   </a>
       </p>
         <p><strong>HTML5, CSS3, & JavaScript</strong> - A wesbite for a desserts parlour.</p>
-    </td>
-  </tr>
-
-  
-
-   <tr>
-     <td width="50%" valign="top">
-      <h3 align="center">Quiz Master</h3>
-        <a target="_blank" href="https://quiz-master-challenge.netlify.app">
-            <img alt="Quiz App" src="https://github.com/AndyMLearmouth92/andymlearmouth92/assets/108182837/ae97d853-79c3-4851-b95d-46a0945be937"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/AndyMLearmouth92/quiz-master" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=FBDFDD&style=flat&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://quiz-master-challenge.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>React.js and Tailwind CSS</strong> - An interactive quiz game which allows the user to select the number of questions, answer the questions and once they are finished provides a total of the correct answers and allows the user to review their responses.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Crafted Cocktails</h3>
-        <a target="_blank" href="https://craftedcocktails.netlify.app">
-          <img width="1470" alt="Crafted Cocktails laptop" src="https://github.com/AndyMLearmouth92/andymlearmouth92/assets/108182837/a86adf9e-56cc-43b6-97ef-059e0f1dd387"/>
-        </a>
-        <p align="center">
-          
-  <a href="https://github.com/AndyMLearmouth92/crafted-cocktails" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=FBDFDD&style=flat&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://craftedcocktails.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & JavaScript</strong> - An application which allows the user to input a type of alcohol and cycle through the catalogue of drinks in that category or search for a random drink.</p>
     </td>
   </tr>
 </table>
