@@ -41,7 +41,7 @@ See [my website](https://andylearmouth.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Tailwind CSS, Node.js, Express.js and MongoDB</strong> - Platform which aims to help users connect and share their adventures with other walkers, hikers and climbers.</p>
+        <p><strong>JavaScript, Tailwind CSS, Node.js, Express.js and MongoDB</strong> - Platform which aims to help users connect and share their adventures with other walkers, hikers and climbers.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Wordle</h3>
@@ -57,7 +57,7 @@ See [my website](https://andylearmouth.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React, Javascript and CSS3</strong> - Clone of Wordle which links to an API that I created to supply five letter words.</p>
+        <p><strong>React, JavaScript and CSS3</strong> - Clone of Wordle which links to an API that I created to supply five letter words.</p>
     </td>
   </tr>
   
@@ -77,7 +77,7 @@ See [my website](https://andylearmouth.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Created for a client who runs a dog grooming business and built to their specification. Website not currently hosted but can be viewed through GitHub.</p>
+        <p><strong>HTML5, CSS3, & JavaScript</strong> - Created for a client who runs a dog grooming business and built to their specification. Website not currently hosted but can be viewed through GitHub.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Delicious Desserts</h3>
@@ -93,7 +93,7 @@ See [my website](https://andylearmouth.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - A wesbite for a desserts parlour.</p>
+        <p><strong>HTML5, CSS3, & JavaScript</strong> - A wesbite for a desserts parlour.</p>
     </td>
   </tr>
 
@@ -115,23 +115,23 @@ See [my website](https://andylearmouth.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React.js and Tailwind CSS</strong> - Quiz application which allows users to undertake a quiz and review answers they got correct and incorrect.</p>
+        <p><strong>React.js and Tailwind CSS</strong> - An interactive quiz game which allows the user to select the number of questions, answer the questions and once they are finished provides a total of the correct answers and allows the user to review their responses.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Delicious Desserts</h3>
-        <a target="_blank" href="https://deliciousdessertsjesmond.netlify.app/index.html">
-          <img width="1470" alt="Delicious Desserts laptop" src="https://github.com/AndyMLearmouth92/andymlearmouth92/assets/108182837/9851ccea-6d9f-4bc7-b37b-39c408a17884"/>
+      <h3 align="center">Crafted Cocktails</h3>
+        <a target="_blank" href="https://craftedcocktails.netlify.app">
+          <img width="1470" alt="Crafted Cocktails laptop" src="https://github.com/AndyMLearmouth92/andymlearmouth92/assets/108182837/a86adf9e-56cc-43b6-97ef-059e0f1dd387"/>
         </a>
         <p align="center">
           
-  <a href="https://github.com/AndyMLearmouth92/Delicious-Desserts" target="_blank">
+  <a href="https://github.com/AndyMLearmouth92/crafted-cocktails" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=FBDFDD&style=flat&logo=github&logo-color=white"/>
   </a>
-  <a href="https://deliciousdessertsjesmond.netlify.app/index.html" target="_blank">
+  <a href="https://craftedcocktails.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - A wesbite for a desserts parlour.</p>
+        <p><strong>HTML5, CSS3, & JavaScript</strong> - An application which allows the user to input a type of alcohol and cycle through the catalogue of drinks in that category or search for a random drink.</p>
     </td>
   </tr>
 </table>
