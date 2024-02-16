@@ -45,7 +45,7 @@ See [my website](https://andylearmouth.netlify.app) for more information!
         <p><strong>JavaScript, Tailwind CSS, Node.js, Express.js and MongoDB</strong> - Platform which aims to help users connect and share their adventures with other walkers, hikers and climbers.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Wordle</h3>
+      <h3 align="center">Wordle (Tutorial)</h3>
       <a target="_blank" href="https://wordgamewordle.netlify.app">
             <img width="100%" alt="Word game" src="https://github-production-user-asset-6210df.s3.amazonaws.com/108182837/241988946-3ff8e767-2812-4b8d-b90d-fe031f4504be.png"/>
         </a>
