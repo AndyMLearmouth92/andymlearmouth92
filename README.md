@@ -30,7 +30,7 @@ See [my website](https://andylearmouth.netlify.app) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Trailblazers</h3>
         <a target="_blank" href="https://trailblazers.cyclic.app">
-            <img width="100%" alt="Social media App" src="https://user-images.githubusercontent.com/108182837/230394589-4314bd76-07e0-4305-9123-5e79df6c4833.png"/>
+            <img width="100%" alt="Social media App" src="https://github.com/AndyMLearmouth92/andymlearmouth92/assets/108182837/1e5f3419-05e9-47a0-bb58-f6e416c0c0f8">
         </a>
         <br />
         <p align="center">
@@ -45,30 +45,9 @@ See [my website](https://andylearmouth.netlify.app) for more information!
         <p><strong>JavaScript, Tailwind CSS, Node.js, Express.js and MongoDB</strong> - Platform which aims to help users connect and share their adventures with other walkers, hikers and climbers.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Wordle (Tutorial)</h3>
-      <a target="_blank" href="https://wordgamewordle.netlify.app">
-            <img width="100%" alt="Word game" src="https://github-production-user-asset-6210df.s3.amazonaws.com/108182837/241988946-3ff8e767-2812-4b8d-b90d-fe031f4504be.png"/>
-        </a>
-        <p align="center">
-          
-  <a href="https://github.com/AndyMLearmouth92/Wordle-React" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=FBDFDD&style=flat&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://wordgamewordle.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>React,js, JavaScript and CSS3</strong> - Clone of Wordle which links to an API that I created to supply five letter words.</p>
-    </td>
-  </tr>
-
-
-
-  <tr>
-     <td width="50%" valign="top">
       <h3 align="center">Quiz Master</h3>
         <a target="_blank" href="https://quiz-master-challenge.netlify.app">
-            <img alt="Quiz App" src="https://github.com/AndyMLearmouth92/andymlearmouth92/assets/108182837/ae97d853-79c3-4851-b95d-46a0945be937"/>
+            <img alt="Quiz App" src="https://github.com/AndyMLearmouth92/andymlearmouth92/assets/108182837/7e3f1845-cd86-4519-b3d2-d9f265f88d2e">
         </a>
         <br />
         <p align="center">
@@ -76,13 +55,18 @@ See [my website](https://andylearmouth.netlify.app) for more information!
   <a href="https://github.com/AndyMLearmouth92/quiz-master" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=FBDFDD&style=flat&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://quiz-master-challenge.netlify.app" target="_blank">
+  <a href="https://quizmasterchallenge.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React.js, JavaScript and Tailwind CSS</strong> - An interactive quiz game which allows the user to select the number of questions, answer the questions and once they are finished provides a total of the correct answers and allows the user to review their responses.</p>
+        <p><strong>React.js, TypeScript and Tailwind CSS</strong> - An interactive quiz game which allows the user to select the number of questions, answer the questions and once they are finished provides a total of the correct answers and allows the user to review their responses.</p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+
+
+
+  <tr>
+       <td width="50%" valign="top">
       <h3 align="center">Crafted Cocktails</h3>
         <a target="_blank" href="https://craftedcocktails.netlify.app">
           <img width="1470" alt="Crafted Cocktails laptop" src="https://github.com/AndyMLearmouth92/andymlearmouth92/assets/108182837/a86adf9e-56cc-43b6-97ef-059e0f1dd387"/>
@@ -98,14 +82,10 @@ See [my website](https://andylearmouth.netlify.app) for more information!
       </p>
         <p><strong>HTML5, CSS3, & JavaScript</strong> - An application which allows the user to input a type of alcohol and cycle through the catalogue of drinks in that category or search for a random drink.</p>
     </td>
-  </tr>
-  
-  
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Grooming Furbulous Darling</h3>
         <a target="_blank" href="">
-          <img width="100%" alt="Portfolio" src="https://github.com/AndyMLearmouth92/Grooming-Furbulous-Darling/assets/108182837/5804791a-0517-497c-a3ea-4bc8144c644b"/>
+          <img width="100%" alt="Portfolio" src="https://github.com/AndyMLearmouth92/andymlearmouth92/assets/108182837/5a6d2153-f8c4-4181-91f4-ccea635aa4e7">
         </a>
       <br />
         <p align="center">
@@ -118,7 +98,11 @@ See [my website](https://andylearmouth.netlify.app) for more information!
       </p>
         <p><strong>HTML5, CSS3, & JavaScript</strong> - Created for a client who runs a dog grooming business and built to their specification. Website not currently hosted but can be viewed through GitHub.</p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  
+  
+  <tr>
+     <td width="50%" valign="top">
       <h3 align="center">Delicious Desserts</h3>
         <a target="_blank" href="https://deliciousdessertsjesmond.netlify.app/index.html">
           <img width="1470" alt="Delicious Desserts laptop" src="https://github.com/AndyMLearmouth92/andymlearmouth92/assets/108182837/9851ccea-6d9f-4bc7-b37b-39c408a17884"/>
@@ -133,6 +117,22 @@ See [my website](https://andylearmouth.netlify.app) for more information!
   </a>
       </p>
         <p><strong>HTML5, CSS3, & JavaScript</strong> - A wesbite for a desserts parlour.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Wordle (Tutorial)</h3>
+      <a target="_blank" href="https://wordgamewordle.netlify.app">
+            <img width="100%" alt="Word game" src="https://github-production-user-asset-6210df.s3.amazonaws.com/108182837/241988946-3ff8e767-2812-4b8d-b90d-fe031f4504be.png"/>
+        </a>
+        <p align="center">
+          
+  <a href="https://github.com/AndyMLearmouth92/Wordle-React" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=FBDFDD&style=flat&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://wordgamewordle.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React.js, JavaScript and CSS3</strong> - Clone of Wordle which links to an API that I created to supply five letter words.</p>
     </td>
   </tr>
 </table>
