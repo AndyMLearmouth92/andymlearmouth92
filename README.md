@@ -46,7 +46,7 @@ See [my website](https://andylearmouth.netlify.app) for more information!
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Quiz Master</h3>
-        <a target="_blank" href="https://quiz-master-challenge.netlify.app">
+        <a target="_blank" href="https://quiz-master-production-f05a.up.railway.app/">
             <img alt="Quiz App" src="https://github.com/AndyMLearmouth92/andymlearmouth92/assets/108182837/7e3f1845-cd86-4519-b3d2-d9f265f88d2e">
         </a>
         <br />
@@ -55,7 +55,7 @@ See [my website](https://andylearmouth.netlify.app) for more information!
   <a href="https://github.com/AndyMLearmouth92/quiz-master" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=FBDFDD&style=flat&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://quizmasterchallenge.netlify.app" target="_blank">
+  <a href="https://quiz-master-production-f05a.up.railway.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
