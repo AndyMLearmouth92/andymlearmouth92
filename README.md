@@ -29,7 +29,7 @@ See [my website](https://andylearmouth.netlify.app) for more information!
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Trailblazers</h3>
-        <a target="_blank" href="https://trailblazers.cyclic.app">
+        <a target="_blank" href="https://trailblazers-production.up.railway.app">
             <img width="100%" alt="Social media App" src="https://github.com/AndyMLearmouth92/andymlearmouth92/assets/108182837/1e5f3419-05e9-47a0-bb58-f6e416c0c0f8">
         </a>
         <br />
@@ -38,7 +38,7 @@ See [my website](https://andylearmouth.netlify.app) for more information!
   <a href="https://github.com/AndyMLearmouth92/Trailblazers" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=FBDFDD&style=flat&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://trailblazers.cyclic.app" target="_blank">
+  <a href="https://trailblazers-production.up.railway.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
