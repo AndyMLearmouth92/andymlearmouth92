@@ -62,9 +62,6 @@ See [my website](https://andylearmouth.netlify.app) for more information!
         <p><strong>React.js, TypeScript and Tailwind CSS</strong> - An interactive quiz game which allows the user to select the number of questions, answer the questions and once they are finished provides a total of the correct answers and allows the user to review their responses.</p>
     </td>
   </tr>
-
-
-
   <tr>
        <td width="50%" valign="top">
       <h3 align="center">Watford Web Designs</h3>
@@ -79,7 +76,7 @@ See [my website](https://andylearmouth.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & JavaScript</strong> - An application which allows the user to input a type of alcohol and cycle through the catalogue of drinks in that category or search for a random drink.</p>
+        <p><strong>HTML5, CSS3, & JavaScript</strong> - Created a website for my wife's website agency.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Grooming Furbulous Darling</h3>
@@ -95,7 +92,7 @@ See [my website](https://andylearmouth.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & JavaScript</strong> - Created for a client who runs a dog grooming business and built to their specification. Website not currently hosted but can be viewed through GitHub.</p>
+        <p><strong>HTML5, CSS3, & JavaScript</strong> - Created for a client who runs a dog grooming business and built to their specification.</p>
     </td>
   </tr>
   
