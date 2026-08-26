@@ -17,8 +17,6 @@
 
 Creative, detail-oriented, software engineer. Proven track record of creating and implementing successful front- and back-end web applications. 
 
-See [my website](https://andylearmouth.netlify.app) for more information!
-
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -46,7 +44,7 @@ See [my website](https://andylearmouth.netlify.app) for more information!
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Quiz Master</h3>
-        <a target="_blank" href="https://quiz-master-production-f05a.up.railway.app/">
+        <a target="_blank" href="https://quizmasterchallenge.netlify.app">
             <img alt="Quiz App" src="https://github.com/AndyMLearmouth92/andymlearmouth92/assets/108182837/7e3f1845-cd86-4519-b3d2-d9f265f88d2e">
         </a>
         <br />
@@ -55,7 +53,7 @@ See [my website](https://andylearmouth.netlify.app) for more information!
   <a href="https://github.com/AndyMLearmouth92/quiz-master" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=FBDFDD&style=flat&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://quiz-master-production-f05a.up.railway.app/" target="_blank">
+  <a href="https://quizmasterchallenge.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
