@@ -74,11 +74,11 @@ Creative, detail-oriented, software engineer. Proven track record of creating an
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & JavaScript</strong> - Created a website for my wife's website agency.</p>
+        <p><strong>HTML5, CSS3, & JavaScript</strong> - Created a website for my wife's website agency, showcasing its services and providing a professional online presence.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Grooming Furbulous Darling</h3>
-        <a target="_blank" href="">
+        <a target="_blank" href="https://groomingfurbulousdarling.co.uk">
           <img width="100%" alt="Portfolio" src="https://github.com/AndyMLearmouth92/andymlearmouth92/assets/108182837/5a6d2153-f8c4-4181-91f4-ccea635aa4e7">
         </a>
       <br />
@@ -86,15 +86,14 @@ Creative, detail-oriented, software engineer. Proven track record of creating an
   <a href="https://github.com/AndyMLearmouth92/Grooming-Furbulous-Darling" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=FBDFDD&style=flat&logo=github&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://groomingfurbulousdarling.co.uk" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F3BDBD&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, & JavaScript</strong> - Created for a client who runs a dog grooming business and built to their specification.</p>
     </td>
   </tr>
-  
-  
+
   <tr>
      <td width="50%" valign="top">
       <h3 align="center">Delicious Desserts</h3>
